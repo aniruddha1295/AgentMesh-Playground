@@ -1,0 +1,16 @@
+{
+  "name": "ap2_payment_agents",
+  "version": "1.0.0",
+  "description": "A demo where AI agents negotiate and complete payments peer-to-peer using [py-libp2p](https://github.com/libp2p/py-libp2p), inspired by Google's [Agent-to-Agent Payments (AP2)](https://github.com/anthropics/ap2) protocol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "hardhat": "^3.2.0"
+  }
+}
